@@ -49,7 +49,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>springbootcicd</finalName>
+        <finalName>springboot-final-image</finalName>
     </build>
 
 </project>
